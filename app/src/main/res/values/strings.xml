@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">boatcheck</string>
+    <string name="height">Height(cm)</string>
+    <string name="width">Width(cm)</string>
+    <string name="unladenweight">unladen weight(kg)</string>
+    <string name="bottomheight">bottom height(cm)</string>
+    <string name="tentau">Name Ship</string>
+    <string name="Gmail">gmail</string>
+    <string name="Username">username</string>
+    <string name="Password">password</string>
+    <string name="ConfirmPassword">confirm password</string>
+    <string name="signin">aaa</string>
+    <string name="cancel">cccc</string>
+    <string name="map_api_key">AIzaSyCYzB1jON56Rgm8VH_3GV4izQCrKjDNwUo</string>
+    <string name="un">Tàu của bạn</string>
+    <string name="united">vi tri 1</string>
+    <string name="end">end</string>
+    <string name="ti">start</string>
+    <string name="thetich">bottom volume(m3)</string>
+</resources>
